@@ -32,3 +32,8 @@ Styled using **TailwindCSS + DaisyUI** and managed with **Zustand** for global s
 - 🔒 JWT Authentication
 - 💾 MongoDB + Mongoose
 - 🔌 Socket.IO (real-time events)
+
+## 📸 Screenshots
+### Chat Window
+![Chat](https://res.cloudinary.com/dgzft1n7x/image/upload/v1755344176/Screenshot_31_j9o3gn.png)
+
